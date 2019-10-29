@@ -17,7 +17,7 @@ LazyData: true
 VignetteBuilder: knitr
 Imports: 
     DelayedArray (>= 0.10.0),
-    HDF5Array (>= 1.13.3),
+    HDF5Array (>= 1.12.3),
     methods,
     rhdf5,
     RNifti,
